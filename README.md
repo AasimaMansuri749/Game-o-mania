@@ -14,4 +14,4 @@
   - The goal of the game is to shoot as many birds as possible in 30 seconds.
   - The counter shows how many targets you hit in the 30 seconds.
    - There is no limit in bullets
-
+![Hunting Bird](screenshots/hunting_bird.png)
